@@ -15,6 +15,6 @@ MonoBehaviour:
   totalTimeSpent: 0
   numberOfGames: 0
   gold: 0
-  unlockedSkills: 03000000
+  unlockedSkills: 
   leftSkill: 0
   rightSkill: 0
